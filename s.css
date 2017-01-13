@@ -1,0 +1,54 @@
+body{
+background:url(62369-OAHKFM-137.jpg);
+background-size: contain;
+width: auto;
+height:auto;
+margin:0;
+padding: 0;
+}
+
+
+
+label {
+width: 100px;
+/*    background-color: red;*/
+display: block;
+float: left;
+    
+}
+
+#centre{
+width:  25%;
+height: 200px;
+background-color: rgba(235,164,206, 0.8);
+padding: 10px;
+border-radius: 10%; 
+margin: auto;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 10%;
+padding-bottom: 40px;   
+}
+
+
+header{
+width:  100%;
+height: 0px;  
+background-color: #4D3316;
+    
+    
+   
+
+}
+
+#boutton{
+width: 100px;  
+height:30px;    
+background-color: #F474A0;   
+margin-top: 10px;    
+    
+    
+}
+
+
